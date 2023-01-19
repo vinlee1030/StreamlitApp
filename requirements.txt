@@ -8,7 +8,6 @@ GitPython==3.1.29
 nltk==3.7
 numba==0.56.4
 numexpr==2.8.3
-numpy==1.20.3
 oauthlib==3.2.2
 orjson==3.8.5
 packaging==21.3
